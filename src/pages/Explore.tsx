@@ -93,10 +93,10 @@ const Explore: FunctionComponent<ExploreProps> = () => {
         <Link to="/" className="flex gap-2 items-center">
           <LazyLoadImage
             src="/logo.png"
-            className="h-10 w-10 rounded-full object-cover"
+            className="h-20 w-20 rounded-full object-cover"
           />
           <p className="text-xl text-white font-medium tracking-wider uppercase">
-            Moon<span className="text-primary">light</span>
+            Little Movie<span className="text-primary"> Company</span>
           </p>
         </Link>
         <button onClick={() => setIsSidebarActive((prev) => !prev)}>
