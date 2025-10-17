@@ -4,7 +4,7 @@ Hot TV Show / Movie Watching Website
 
 ## Movie sources
 
-The Movie Database API
+The Movie Database API (TMDB)
 
 ## Main technology used
 
