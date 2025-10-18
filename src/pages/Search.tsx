@@ -87,7 +87,7 @@ const Search: FunctionComponent<SearchProps> = () => {
               <div
                 // @ts-ignore
                 ref={parent}
-                className="bg-dark-lighten rounded-md shadow-md px-4 pt-3"
+                className="bg-dark-lighten rounded-md shadow-md px-4   pt-3"
               >
                 <div className="flex justify-between items-center text-white pb-3">
                   <p className="text-lg ">Search Results</p>

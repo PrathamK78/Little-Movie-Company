@@ -36,7 +36,7 @@ const SearchResult: FunctionComponent<SearchResultProps> = ({
 
   return (
     <div className="md:mt-32 mt-7 px-[2vw]">
-      <p className="text-white md:text-xl text-lg mb-6">
+      <p className="text-white md:text-xl text-lg mb-7">
         Search results for "{query}" ({data?.total_results} results found)
       </p>
       {data && data.results.length === 0 && (

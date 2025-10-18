@@ -67,9 +67,9 @@ const BannerSlider: FC<BannerSliderProps> = ({
                   </h2>
 
                   <div>
-                    <p className="text-white font-semibold md:text-2xl text-base mt-6">
+                    {/* <p className="text-white font-semibold md:text-2xl text-base mt-6">
                       {dataDetail?.[index].translation[0]}
-                    </p>
+                    </p> */}
                     <p className="mt-1">
                       {film.release_date &&
                         `Release date: ${film.release_date}`}
