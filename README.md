@@ -161,5 +161,5 @@ Dive into the world of film with Little-Movie-Company, your personalized cinemat
 ### Node.js/JavaScript Setup
 1. Install Node.js
 2. Install dependencies: `npm install` or `yarn install`
-3. Start development server: (Check scripts in `package.json`, e.g., `npm start`)
+3. Start development server: (Check scripts in `package.json`, e.g., `react-scripts start`)
 
